@@ -42,7 +42,7 @@ const DataCache = {
 
 // --- localStorage fallback (file:// atau API mati) ---
 const DEFAULT_USERS = [
-  { id: "u1", username: "admin", password: "admin123", name: "Budi Admin", role: ROLES.ADMIN },
+  { id: "u1", username: "admin", password: "admin123", name: "ratih Admin", role: ROLES.ADMIN },
   { id: "u2", username: "owner", password: "owner123", name: "Sari Owner", role: ROLES.OWNER },
   { id: "u3", username: "barista", password: "barista123", name: "Andi Barista", role: ROLES.BARISTA },
 ];
